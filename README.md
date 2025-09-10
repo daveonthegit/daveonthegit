@@ -16,6 +16,7 @@ Computer Science student and software engineer with hands-on experience in full-
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-MIPS%20Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
@@ -77,7 +78,6 @@ Computer Science student and software engineer with hands-on experience in full-
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-on-linked)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dxiao3043@gmail.com)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9179467086)
 
 </div>
 
@@ -88,5 +88,7 @@ Computer Science student and software engineer with hands-on experience in full-
 </div>
 
 <div align="center">
-  🔐 Passionate about security research and system architecture | Open to collaboration and new opportunities!
+  Passionate about security research and system architecture | Open to collaboration and new opportunities!
 </div>
+
+
