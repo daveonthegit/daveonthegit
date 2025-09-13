@@ -1,5 +1,5 @@
 # Hi, I'm David Xiao
-www.davidx.tech
+http://davidx.tech
 ## About Me
 Computer Science student and software engineer with hands-on experience in full-stack development, system architecture modernization, and security-focused programming. Currently pursuing my BA in Computer Science at CUNY Hunter College and passionate about building scalable, secure applications.
 
