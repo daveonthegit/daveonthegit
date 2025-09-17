@@ -3,7 +3,7 @@ https://www.davidx.tech
 ## About Me
 Computer Science student and software engineer with hands-on experience in full-stack development, system architecture modernization, and security-focused programming. Currently pursuing my BA in Computer Science at CUNY Hunter College and passionate about building scalable, secure applications.
 
-- I'm currently working on **ForgeArena - a gamified fitness platform blending avatar evolution with social gym competition**
+- I'm currently working on **ForgeArena - a gamified fitness platform blending avatar evolution with social gym competition** && **Kyarafit - a mobile-first cosplay wardrobe and outfit planning application.**
 - I'm currently learning **Typescript and Golang**
 - How to reach me: **dxiao3043@gmail.com**
 - Fun fact: **I am a top 200 Minesweeper.online player**
