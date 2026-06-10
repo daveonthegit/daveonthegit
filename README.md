@@ -1,9 +1,9 @@
 # Hi, I'm David Xiao
 https://www.davidx.tech
 ## About Me
-Computer Science student and software engineer with hands-on experience in full-stack development, system architecture modernization, and security-focused programming. Currently pursuing my BA in Computer Science at CUNY Hunter College and passionate about building scalable, secure applications.
+I'm a Web Developer at Secco Squared focused on full-stack web applications, lead-generation flows, and reliable delivery. Fluent across TypeScript, React, Next.js, Node.js, Python, Go, and C, I like hard, load-bearing work: A/B testing and optimizing pages, tightening REST APIs, and making systems cheaper to change.
 
-- I'm currently working on **OutfAI - OutfAI helps you decide what to wear by generating context-aware outfits from your own closet** && **Kyarafit - a mobile-first cosplay wardrobe and outfit planning application.**
+- I'm currently working on **Kyarafit - a mobile-first cosplay wardrobe and outfit planning application.**
 - I'm currently learning **Typescript and Golang**
 - How to reach me: **dxiao3043@gmail.com**
 - Fun fact: **I am a top 200 Minesweeper.online player**
