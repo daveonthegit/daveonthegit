@@ -1,7 +1,7 @@
 # Hi, I'm David Xiao
 https://www.davidx.tech
 ## About Me
-I'm a Web Developer at Secco Squared focused on full-stack web applications, lead-generation flows, and reliable delivery. Fluent across TypeScript, React, Next.js, Node.js, Python, Go, and C, I like hard, load-bearing work: A/B testing and optimizing pages, tightening REST APIs, and making systems cheaper to change.
+I'm a Full-Stack Developer at Secco Squared focused on full-stack web applications, lead-generation flows, and reliable delivery. Fluent across TypeScript, React, Next.js, Node.js, Python, Go, and C, I like hard, load-bearing work: A/B testing and optimizing pages, tightening REST APIs, and making systems cheaper to change.
 
 - I'm currently working on **Kyarafit - a mobile-first cosplay wardrobe and outfit planning application.**
 - I'm currently learning **Typescript and Golang**
