@@ -1,82 +1,73 @@
 # Hi, I'm David Xiao
-https://www.davidx.tech
-## About Me
-I'm a Full-Stack Developer at Secco Squared focused on full-stack web applications, lead-generation flows, and reliable delivery. Fluent across TypeScript, React, Next.js, Node.js, Python, Go, and C, I like hard, load-bearing work: A/B testing and optimizing pages, tightening REST APIs, and making systems cheaper to change.
 
-- I'm currently working on **Kyarafit - a mobile-first cosplay wardrobe and outfit planning application.**
-- I'm currently learning **Typescript and Golang**
+**Portfolio:** [davidx.link](https://davidx.link) · also at [dxiao.si](https://dxiao.si)
+
+## About Me
+I'm a Full-Stack Developer at Secco Squared building internal tools, AI agents, and production web apps. Fluent across TypeScript, React, Next.js, Node.js, Python, Go, and C, I like hard, load-bearing work: tools that replace manual entry, APIs that don't lose data when a partner goes down, and pipelines that make systems cheaper to change.
+
+- I'm currently building **[Cosapp.si](https://cosapp.si) - the cosplay build planner.** Pieces, tasks, budget and every con day of a cosplay in one place, iPhone first. The waitlist is open.
+- On the side: **[Agentflow](https://github.com/daveonthegit/agentflow)**, a Python CLI that gates AI-written code changes behind schemas and human sign-off.
 - How to reach me: **dxiao3043@gmail.com**
 - Fun fact: **I am a top 200 Minesweeper.online player**
 
-## 🛠Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Assembly](https://img.shields.io/badge/-MIPS%20Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+### Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### Data & DevOps
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### Tools & Security
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GCC](https://img.shields.io/badge/-GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+### Testing & AI
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-## GitHub Stats
+## GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daveonthegit&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveonthegit&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daveonthegit&theme=radical" alt="GitHub Streak" />
-</div>
-
-## GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daveonthegit&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daveonthegit&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=daveonthegit&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## Education
 **Bachelor of Arts in Computer Science**  
-*CUNY Hunter College* | Aug 2022 - Present
+*CUNY Hunter College* | Aug 2022 - May 2026
 
 ## Connect with Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-on-linked)
+
+[![Portfolio](https://img.shields.io/badge/-davidx.link-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://davidx.link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/david-on-linked)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dxiao3043@gmail.com)
 
 </div>
@@ -90,5 +81,3 @@ I'm a Full-Stack Developer at Secco Squared focused on full-stack web applicatio
 <div align="center">
   Passionate about security research and system architecture | Open to collaboration and new opportunities!
 </div>
-
-
