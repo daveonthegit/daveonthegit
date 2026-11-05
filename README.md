@@ -3,9 +3,9 @@
 **Portfolio:** [davidx.link](https://davidx.link) · also at [dxiao.si](https://dxiao.si)
 
 ## About Me
-I'm a Full-Stack Developer at Secco Squared building internal tools, AI agents, and production web apps. Fluent across TypeScript, React, Next.js, Node.js, Python, Go, and C, I like hard, load-bearing work: tools that replace manual entry, APIs that don't lose data when a partner goes down, and pipelines that make systems cheaper to change.
+I'm a Full Stack Developer at Secco Squared building internal tools, AI agents, and production web apps. Fluent across TypeScript, React, Next.js, Node.js, Python, Go, and C, I like hard, load-bearing work: tools that replace manual entry, APIs that don't lose data when a partner goes down, and pipelines that make systems cheaper to change.
 
-- I'm currently building **[Cosapp.si](https://cosapp.si) - the cosplay build planner.** Pieces, tasks, budget and every con day of a cosplay in one place, iPhone first. The waitlist is open.
+- I'm currently building **[Cosapp.si](https://cosapp.si), the cosplay build planner**, under Shuk Labs LLC. Pieces, tasks, budget and every con day of a cosplay in one place, iPhone first. The waitlist is open.
 - On the side: **[Agentflow](https://github.com/daveonthegit/agentflow)**, a Python CLI that gates AI-written code changes behind schemas and human sign-off.
 - How to reach me: **dxiao3043@gmail.com**
 - Fun fact: **I am a top 200 Minesweeper.online player**
@@ -52,7 +52,12 @@ I'm a Full-Stack Developer at Secco Squared building internal tools, AI agents, 
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-## GitHub Streak
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daveonthegit&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daveonthegit&theme=radical" alt="Top Languages by Commit" height="180" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=daveonthegit&theme=radical" alt="GitHub Streak" />
@@ -60,7 +65,7 @@ I'm a Full-Stack Developer at Secco Squared building internal tools, AI agents, 
 
 ## Education
 **Bachelor of Arts in Computer Science**  
-*CUNY Hunter College* | Aug 2022 - May 2026
+*CUNY Hunter College* | Graduated May 2026
 
 ## Connect with Me
 
@@ -79,5 +84,5 @@ I'm a Full-Stack Developer at Secco Squared building internal tools, AI agents, 
 </div>
 
 <div align="center">
-  Passionate about security research and system architecture | Open to collaboration and new opportunities!
+  Building full-stack products, lead-generation platforms, and mobile apps | Open to collaboration and new opportunities!
 </div>
